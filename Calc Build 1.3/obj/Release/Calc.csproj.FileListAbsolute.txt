@@ -1,0 +1,33 @@
+D:\DFiles\OpenCV_Projects\Calc\bin\Release\Calc.exe.config
+D:\DFiles\OpenCV_Projects\Calc\bin\Release\Calc.exe
+D:\DFiles\OpenCV_Projects\Calc\bin\Release\Calc.pdb
+D:\DFiles\OpenCV_Projects\Calc\obj\Release\Calc.csproj.AssemblyReference.cache
+D:\DFiles\OpenCV_Projects\Calc\obj\Release\Calc.csproj.SuggestedBindingRedirects.cache
+D:\DFiles\OpenCV_Projects\Calc\obj\Release\Calc.Form1.resources
+D:\DFiles\OpenCV_Projects\Calc\obj\Release\Calc.Properties.Resources.resources
+D:\DFiles\OpenCV_Projects\Calc\obj\Release\Calc.csproj.GenerateResource.cache
+D:\DFiles\OpenCV_Projects\Calc\obj\Release\Calc.csproj.CoreCompileInputs.cache
+D:\DFiles\OpenCV_Projects\Calc\obj\Release\Calc.exe
+D:\DFiles\OpenCV_Projects\Calc\obj\Release\Calc.pdb
+D:\DFiles\OpenCV_Projects\Calc - Copy\bin\Release\Calc.exe.config
+D:\DFiles\OpenCV_Projects\Calc - Copy\bin\Release\Calc.exe
+D:\DFiles\OpenCV_Projects\Calc - Copy\bin\Release\Calc.pdb
+D:\DFiles\OpenCV_Projects\Calc - Copy\obj\Release\Calc.csproj.AssemblyReference.cache
+D:\DFiles\OpenCV_Projects\Calc - Copy\obj\Release\Calc.csproj.SuggestedBindingRedirects.cache
+D:\DFiles\OpenCV_Projects\Calc - Copy\obj\Release\Calc.Form1.resources
+D:\DFiles\OpenCV_Projects\Calc - Copy\obj\Release\Calc.Properties.Resources.resources
+D:\DFiles\OpenCV_Projects\Calc - Copy\obj\Release\Calc.csproj.GenerateResource.cache
+D:\DFiles\OpenCV_Projects\Calc - Copy\obj\Release\Calc.csproj.CoreCompileInputs.cache
+D:\DFiles\OpenCV_Projects\Calc - Copy\obj\Release\Calc.exe
+D:\DFiles\OpenCV_Projects\Calc - Copy\obj\Release\Calc.pdb
+C:\Projects\Calc - Copy\bin\Release\Calc.exe.config
+C:\Projects\Calc - Copy\bin\Release\Calc.exe
+C:\Projects\Calc - Copy\bin\Release\Calc.pdb
+C:\Projects\Calc - Copy\obj\Release\Calc.csproj.AssemblyReference.cache
+C:\Projects\Calc - Copy\obj\Release\Calc.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Calc - Copy\obj\Release\Calc.Form1.resources
+C:\Projects\Calc - Copy\obj\Release\Calc.Properties.Resources.resources
+C:\Projects\Calc - Copy\obj\Release\Calc.csproj.GenerateResource.cache
+C:\Projects\Calc - Copy\obj\Release\Calc.csproj.CoreCompileInputs.cache
+C:\Projects\Calc - Copy\obj\Release\Calc.exe
+C:\Projects\Calc - Copy\obj\Release\Calc.pdb
